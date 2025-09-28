@@ -5,6 +5,7 @@
 
 ## 미리보기 
 <img width="899" height="1283" alt="스크린샷 2025-09-28 16 59 51" src="https://github.com/user-attachments/assets/d3040afe-a448-41e2-9939-36a3aa36cc2e" />
+
 ## 기능
 - **LangChain 통합**: 언어 모델과 효과적으로 관리하고 상호작용하기 위해 LangChain을 활용합니다.
 - **Streamlit 인터페이스**: 원활한 상호작용을 위해 Streamlit으로 제작된 사용자 친화적인 웹 인터페이스입니다.
